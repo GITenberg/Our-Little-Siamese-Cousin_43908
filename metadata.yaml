@@ -1,0 +1,39 @@
+_repo: Our-Little-Siamese-Cousin_43908
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgman, Lewis Jesse
+    - Bridgeman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 43908-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wade, Mary Hazelton Blanchard
+    alias: Wade, Mary Hazleton
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '5065'
+    url: http://www.gutenberg.org/2009/agents/5065
+description: ''
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43908'
+  lccn: 03018184
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'DS'
+- !lcsh 'Children -- Thailand -- Juvenile literature'
+title: Our Little Siamese Cousin
+url: http://www.gutenberg.org/ebooks/43908
